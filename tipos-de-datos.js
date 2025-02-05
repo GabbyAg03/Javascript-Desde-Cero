@@ -23,3 +23,11 @@ console.log(typeof(dato));
 console.log(10 * "Gabby");
 
 // Si ponemos typeof de null dira que es objeto, pero en realidad es ausencia intencional de valor.
+
+// Ejercicio de CAMPUS
+console.log(typeof(42));
+console.log(typeof('Veinticinco'));
+console.log(typeof(-666));
+console.log(typeof(0));
+console.log(typeof(FALSE));
+console.log(typeof(''));
